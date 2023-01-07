@@ -1,2 +1,0 @@
-# simulacrum
-Interactive bible studies
